@@ -19,6 +19,8 @@
 
 package org.elasticsearch.search.aggregations.bucket.range;
 
-public class RangeAggregationWithNoRangeTest {
+import org.elasticsearch.test.ESTestCase;
+
+public class RangeAggregationBuilderTest extends ESTestCase {
 
 }
